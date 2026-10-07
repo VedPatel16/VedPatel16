@@ -16,5 +16,5 @@ questions from an uploaded PDF using retrieval-augmented generation.
 Building a REST API project with FastAPI and SQL.
 
 ## Contact
-Gamil : vedmedaat@gmail.com
-Linkedin : https://www.linkedin.com/in/ved-maheshbhai-patel-2403b2321
+- 📧 Email: [vedmedaat@gmail.com](mailto:vedmedaat@gmail.com)
+- 💼 LinkedIn: [Ved Patel](https://www.linkedin.com/in/ved-maheshbhai-patel-2403b2321)
