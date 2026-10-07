@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ved Patel 
 
-<!--
-**VedPatel16/VedPatel16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year B.E. Computer Engineering student at GEC Surat, looking for a
+**Python Developer / Backend internship**.
 
-Here are some ideas to get you started:
+## What I work with
+- **Languages:** Python, SQL, JavaScript, Java, C
+- **Gen AI:** RAG, LLM APIs (Groq), Streamlit
+- **Tools:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+**[GenAI Chat With Your PDF](https://pdf-chatbot16.streamlit.app/)** – a Streamlit chatbot that answers
+questions from an uploaded PDF using retrieval-augmented generation.
+
+## Currently
+Building a REST API project with FastAPI and SQL.
+
+## Contact
+Gamil : vedmedaat@gmail.com
+Linkedin : https://www.linkedin.com/in/ved-maheshbhai-patel-2403b2321
