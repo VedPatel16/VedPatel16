@@ -9,8 +9,7 @@ Final-year B.E. Computer Engineering student at GEC Surat, looking for a
 - **Tools:** Git, GitHub
 
 ## Featured project
-**[GenAI Chat With Your PDF](https://pdf-chatbot16.streamlit.app/)** – a Streamlit chatbot that answers
-questions from an uploaded PDF using retrieval-augmented generation.
+**GenAI Chat With Your PDF** – [Live demo](https://pdf-chatbot16.streamlit.app/) · [Source code](https://github.com/VedPatel16/pdf-chatbot)
 
 ## Currently
 Building a REST API project with FastAPI and SQL.
